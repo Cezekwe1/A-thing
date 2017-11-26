@@ -8,6 +8,10 @@ def constructor
 end
 
 
+def pull
+ new pull stu
+end
+
 
 
 
