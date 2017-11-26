@@ -8,6 +8,11 @@ def constructor
 end
 
 
+def pull
+ new pull stu
+ mmorenincsnnc
+end
+
 
 
 
