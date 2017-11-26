@@ -8,6 +8,11 @@ def constructor
 end
 
 
+def this
+dodnsojdosd
+ehnd
+
+
 
 
 
