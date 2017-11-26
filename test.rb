@@ -8,10 +8,17 @@ def constructor
 end
 
 
+<<<<<<< HEAD
+def this
+dodnsojdosd
+ehnd
+
+=======
 def pull
  new pull stu
  mmorenincsnnc
 end
+>>>>>>> master
 
 
 
